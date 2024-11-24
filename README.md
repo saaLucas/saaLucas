@@ -18,4 +18,4 @@
 - **Email**: saa.lucas@outlook.com
 
 ### ⚡ Fun fact:
-- I’m a big fan of *Ceará Sporting Club* 🏆 and love fantasy anime and music by Inhaler 🎶!
+- I’m a big fan of fantasy anime and indie music 🎶!
