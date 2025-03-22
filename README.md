@@ -2,7 +2,6 @@
 
 ### 👀 I’m interested in:
 - **Data Science & Statistics** 📊
-- **Automation & Robotics** 🤖
 
 ### 🌱 I’m currently learning:
 - Python for Business Analytics 📊
