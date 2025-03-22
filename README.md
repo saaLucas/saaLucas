@@ -2,15 +2,12 @@
 
 ### 👀 I’m interested in:
 - **Data Science & Statistics** 📊
-- **Front-End Development** 🌐
 - **Automation & Robotics** 🤖
 
 ### 🌱 I’m currently learning:
 - Python for Business Analytics 📊
-- Advanced Front-End Design (HTML, CSS, JavaScript) 🖌
 
 ### 💞️ I’m looking to collaborate on:
-- Front-end projects as a freelancer 🖥️
 - Data-driven projects focused on business insights 📈
 
 ### 📫 How to reach me:
