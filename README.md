@@ -16,6 +16,3 @@
 ### 📫 How to reach me:
 - **LinkedIn**: [Lucas's LinkedIn](https://linkedin.com/in/saalucas7)
 - **Email**: saa.lucas@outlook.com
-
-### ⚡ Fun fact:
-- I’m a big fan of fantasy anime and indie music 🎶!
