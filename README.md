@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @saa_Lucas (Lucas Sá)
+# 👋 Hi, I’m @saaLucas (Lucas Sá)
 
 ### 👀 I’m interested in:
 - **Data Science & Statistics** 📊
