@@ -11,4 +11,4 @@
 
 ### 📫 How to reach me:
 - **LinkedIn**: [Lucas's LinkedIn](https://linkedin.com/in/saalucas7)
-- **Email**: saa.lucas@outlook.com
+- **Email**: ...
