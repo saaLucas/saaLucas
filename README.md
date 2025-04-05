@@ -10,5 +10,5 @@
 - Data-driven projects focused on business insights 📈
 
 ### 📫 How to reach me:
-- **LinkedIn**: [Lucas's LinkedIn](https://linkedin.com/in/saalucas7)
+- **LinkedIn**: [...)
 - **Email**: ...
